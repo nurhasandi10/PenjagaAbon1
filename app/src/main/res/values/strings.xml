@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Penjaga ABON</string>
+    <string name="accessibility_desc">Dipakai untuk mendeteksi aplikasi yang sedang dibuka saat waktu absen, supaya HP hanya bisa membuka ABON Sumbar sampai absen selesai (minimal 1 menit di dalam ABON). Aplikasi ini tidak membaca isi layar atau ketikan Anda.</string>
+</resources>
